@@ -1,0 +1,2 @@
+zas pisu nejaky text abych soubor trochu zmenil
+pokračování v úpravách textu potom, co jsem pracoval pomocí Druhé větve na původním souboru z větve Master. Pomocnou (druhou) větev jsem už i smazal.

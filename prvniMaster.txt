@@ -1,1 +1,2 @@
 pisu nejaky text
+uprava textu v druhe vetvi
